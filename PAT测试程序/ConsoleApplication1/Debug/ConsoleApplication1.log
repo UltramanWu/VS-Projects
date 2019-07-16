@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ConsoleApplication1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  找零钱.cpp
+f:\c++\consoleapplication1\consoleapplication1\找零钱.cpp(36): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+f:\c++\consoleapplication1\consoleapplication1\找零钱.cpp(38): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+f:\c++\consoleapplication1\consoleapplication1\找零钱.cpp(40): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+f:\c++\consoleapplication1\consoleapplication1\找零钱.cpp(11): warning C4101: “p”: 未引用的局部变量
+f:\c++\consoleapplication1\consoleapplication1\找零钱.cpp(11): warning C4101: “a”: 未引用的局部变量
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  商与余数.cpp
+  main_TopSort.cpp
+  main_BucketSort.cpp
+  main2.cpp
+  Insert or Merge.cpp
+  ConsoleApplication1.vcxproj -> F:\C++\ConsoleApplication1\Debug\PAT Basic Level.exe
