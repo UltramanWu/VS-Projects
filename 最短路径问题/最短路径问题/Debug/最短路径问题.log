@@ -1,0 +1,4 @@
+﻿  main.cpp
+f:\c++学习\最短路径问题\最短路径问题\array_map.h(6): warning C4005: “INFINITY”: 宏重定义
+          d:\vs 2013\vc\include\math.h(102) : 参见“INFINITY”的前一个定义
+  最短路径问题.vcxproj -> F:\C++学习\最短路径问题\Debug\最短路径问题.exe
