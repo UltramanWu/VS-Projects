@@ -81,6 +81,7 @@
     <ClCompile Include="N叉树的前序遍历.cpp" />
     <ClCompile Include="三角形最小路径和.cpp" />
     <ClCompile Include="两数之和.cpp" />
+    <ClCompile Include="二叉树的中序遍历.cpp" />
     <ClCompile Include="二叉树的前序遍历.cpp" />
     <ClCompile Include="二叉树的层序遍历.cpp" />
     <ClCompile Include="二进制求和.cpp" />
