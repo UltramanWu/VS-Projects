@@ -1,3 +1,2 @@
-﻿  Pow(x,n).cpp
-f:\c++\vs 项目\leetcode\leetcode\pow(x,n).cpp(36): error C2084: 函数“double myPow(double,int)”已有主体
-          f:\c++\vs 项目\leetcode\leetcode\pow(x,n).cpp(20) : 参见“myPow”的前一个定义
+﻿  x的平方根.cpp
+  LeetCode.vcxproj -> F:\C++\VS 项目\LeetCode\Debug\LeetCode.exe
