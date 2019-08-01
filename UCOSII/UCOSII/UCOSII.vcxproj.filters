@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="资源文件\CONFIG">
+      <UniqueIdentifier>{71809f20-5544-4453-b837-430f6f497811}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\CORE">
+      <UniqueIdentifier>{7de80ad2-aaed-4053-a6d3-eee6bf305c2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="资源文件\PORT">
+      <UniqueIdentifier>{cf1389b5-8e8c-4dec-9937-759896d1a540}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="UCOSII\CONFIG\includes.h">
+      <Filter>资源文件\CONFIG</Filter>
+    </ClInclude>
+    <ClInclude Include="UCOSII\CONFIG\os_cfg.h">
+      <Filter>资源文件\CONFIG</Filter>
+    </ClInclude>
+    <ClInclude Include="UCOSII\CORE\ucos_ii.h">
+      <Filter>资源文件\CORE</Filter>
+    </ClInclude>
+    <ClInclude Include="UCOSII\PORT\os_cpu.h">
+      <Filter>资源文件\PORT</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="UCOSII\CORE\os_core.c">
+      <Filter>资源文件\CORE</Filter>
+    </ClCompile>
+    <ClCompile Include="UCOSII\CORE\os_flag.c">
+      <Filter>资源文件\CORE</Filter>
+    </ClCompile>
+    <ClCompile Include="UCOSII\CORE\os_mbox.c">
+      <Filter>资源文件\CORE</Filter>
+    </ClCompile>
+    <ClCompile Include="UCOSII\CORE\os_mem.c">
+      <Filter>资源文件\CORE</Filter>
+    </ClCompile>
+    <ClCompile Include="UCOSII\CORE\os_mutex.c">
+      <Filter>资源文件\CORE</Filter>
+    </ClCompile>
+    <ClCompile Include="UCOSII\CORE\os_q.c">
+      <Filter>资源文件\CORE</Filter>
+    </ClCompile>
+    <ClCompile Include="UCOSII\CORE\os_sem.c">
+      <Filter>资源文件\CORE</Filter>
+    </ClCompile>
+    <ClCompile Include="UCOSII\CORE\os_task.c">
+      <Filter>资源文件\CORE</Filter>
+    </ClCompile>
+    <ClCompile Include="UCOSII\CORE\os_time.c">
+      <Filter>资源文件\CORE</Filter>
+    </ClCompile>
+    <ClCompile Include="UCOSII\CORE\os_tmr.c">
+      <Filter>资源文件\CORE</Filter>
+    </ClCompile>
+    <ClCompile Include="UCOSII\CORE\ucos_ii.c">
+      <Filter>资源文件\CORE</Filter>
+    </ClCompile>
+    <ClCompile Include="UCOSII\PORT\os_cpu_c.c">
+      <Filter>资源文件\PORT</Filter>
+    </ClCompile>
+    <ClCompile Include="UCOSII\PORT\os_dbg.c">
+      <Filter>资源文件\PORT</Filter>
+    </ClCompile>
+    <ClCompile Include="UCOSII\PORT\os_dbg_r.c">
+      <Filter>资源文件\PORT</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="UCOSII\PORT\os_cpu_a.asm">
+      <Filter>资源文件\PORT</Filter>
+    </None>
+  </ItemGroup>
+</Project>
