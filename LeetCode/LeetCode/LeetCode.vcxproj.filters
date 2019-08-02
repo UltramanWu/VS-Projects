@@ -63,5 +63,8 @@
     <ClCompile Include="有序链表转换二叉搜索树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="合并两个有序数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

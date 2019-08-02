@@ -42,6 +42,15 @@
     <ClInclude Include="工厂模式2.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="抽象工厂1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="抽象工厂2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="构建器模式.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="装饰模式.cpp">
@@ -51,6 +60,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="桥模式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="构建器模式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="模板方法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

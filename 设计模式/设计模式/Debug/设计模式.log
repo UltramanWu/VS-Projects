@@ -1,7 +1,2 @@
-﻿  桥模式.cpp
-f:\c++\vs 项目\设计模式\设计模式\桥模式.cpp(11): error C2664: “MessageLite::MessageLite(const MessageLite &)”: 无法将参数 1 从“PCMessageImp *”转换为“const MessageLite &”
-          原因如下:  无法从“PCMessageImp *”转换为“const MessageLite”
-          无构造函数可以接受源类型，或构造函数重载决策不明确
-f:\c++\vs 项目\设计模式\设计模式\桥模式.cpp(12): error C2664: “MessagePerfect::MessagePerfect(const MessagePerfect &)”: 无法将参数 1 从“PCMessageImp *”转换为“const MessagePerfect &”
-          原因如下:  无法从“PCMessageImp *”转换为“const MessagePerfect”
-          无构造函数可以接受源类型，或构造函数重载决策不明确
+﻿  模板方法.cpp
+  设计模式.vcxproj -> F:\C++\VS 项目\设计模式\Debug\设计模式.exe
