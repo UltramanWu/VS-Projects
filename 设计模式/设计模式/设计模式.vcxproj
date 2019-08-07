@@ -81,8 +81,10 @@
     <ClCompile Include="构建器模式.cpp" />
     <ClCompile Include="桥模式.cpp" />
     <ClCompile Include="模板方法.cpp" />
+    <ClCompile Include="状态模式.cpp" />
     <ClCompile Include="装饰模式.cpp" />
     <ClCompile Include="观察者模式.cpp" />
+    <ClCompile Include="门面模式.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="工厂模式1.h" />
@@ -92,11 +94,15 @@
     <ClInclude Include="构建器模式.h" />
     <ClInclude Include="桥模式1.h" />
     <ClInclude Include="桥模式2.h" />
+    <ClInclude Include="状态模式1.h" />
+    <ClInclude Include="State Pattern2.h" />
+    <ClInclude Include="State2.h" />
     <ClInclude Include="装饰模式1.h" />
     <ClInclude Include="装饰模式2.h" />
     <ClInclude Include="装饰模式3.h" />
     <ClInclude Include="观察者模式1.h" />
     <ClInclude Include="观察者模式2.h" />
+    <ClInclude Include="门面模式.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

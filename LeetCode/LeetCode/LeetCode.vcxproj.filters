@@ -66,5 +66,17 @@
     <ClCompile Include="合并两个有序数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="缺失的第一个正数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="组合.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="子集II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="对称二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
