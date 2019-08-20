@@ -78,15 +78,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Element.cpp" />
+    <ClCompile Include="Visitor.cpp" />
     <ClCompile Include="构建器模式.cpp" />
     <ClCompile Include="桥模式.cpp" />
     <ClCompile Include="模板方法.cpp" />
     <ClCompile Include="状态模式.cpp" />
     <ClCompile Include="装饰模式.cpp" />
     <ClCompile Include="观察者模式.cpp" />
+    <ClCompile Include="解析器模式.cpp" />
+    <ClCompile Include="访问器模式.cpp" />
     <ClCompile Include="门面模式.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Element.h" />
+    <ClInclude Include="interpreter.h" />
+    <ClInclude Include="Visitor.h" />
     <ClInclude Include="工厂模式1.h" />
     <ClInclude Include="工厂模式2.h" />
     <ClInclude Include="抽象工厂1.h" />

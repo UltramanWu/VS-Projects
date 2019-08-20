@@ -79,10 +79,15 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="交易.cpp" />
+    <ClCompile Include="冰淇淋.cpp" />
+    <ClCompile Include="击败魔物.cpp" />
+    <ClCompile Include="字符串.cpp" />
     <ClCompile Include="派对.cpp" />
     <ClCompile Include="玫瑰花.cpp" />
     <ClCompile Include="画板.cpp" />
     <ClCompile Include="赛马.cpp" />
+    <ClCompile Include="连续最小子串和.cpp" />
+    <ClCompile Include="迷宫格子.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -30,5 +30,20 @@
     <ClCompile Include="玫瑰花.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="冰淇淋.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="连续最小子串和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="迷宫格子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="击败魔物.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

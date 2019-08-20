@@ -2,6 +2,7 @@
 #include <windows.h>
 using namespace std;
 
+class NetWorkProcess;
 
 class NetWorkState{
 public:
@@ -16,9 +17,9 @@ public:
 	virtual void Handle(){
 		cout << "System State is Opened!" << endl;
 	}
-	virtual void ChangeState(NetWorkState* State){
+	/*virtual void ChangeState(NetWorkState* State){
 		Process->ChangState(State);
-	}
+		}*/
 };
 
 class CloseState :public NetWorkState{  /* ¹Ø±Õ×´Ì¬ */
